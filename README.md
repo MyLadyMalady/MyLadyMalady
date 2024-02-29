@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi! I'm a Phantazm administrator as well as a:
 
-<!--
-**MyLadyMalady/MyLadyMalady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Developer-in-training
 
-Here are some ideas to get you started:
+- Primary lab rat for testing on Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Database advisor/designer
+
+- Configuration lead
+
+- Game designer and player feedback facilitator
+
+- Writer of the development logs (Discord server only)
+
+- Documentation maintainer
+
+GitHub counts my README commits but it doesn't count [my](https://github.com/PhantazmNetwork/PhantazmServer/wiki/Mob-Configuration-(Skills)) [wiki](https://github.com/PhantazmNetwork/PhantazmServer/wiki/Mob-Configuration-(Overview)) [contributions.](https://github.com/PhantazmNetwork/PhantazmServer/wiki/Docker-%E2%80%90-Common-Issues-on-Windows) 😒
