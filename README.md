@@ -14,4 +14,4 @@
 
 - Documentation maintainer
 
-GitHub counts my README commits but it doesn't count [my](https://github.com/PhantazmNetwork/PhantazmServer/wiki/Mob-Configuration-(Skills)) [wiki](https://github.com/PhantazmNetwork/PhantazmServer/wiki/Mob-Configuration-(Overview)) [contributions.](https://github.com/PhantazmNetwork/PhantazmServer/wiki/Docker-%E2%80%90-Common-Issues-on-Windows) 😒
+GitHub counts my README commits but it doesn't [count](https://github.com/PhantazmNetwork/PhantazmServer/wiki/Damage-API) [my](https://github.com/PhantazmNetwork/PhantazmServer/wiki/Mob-Configuration-(Skills)) [wiki](https://github.com/PhantazmNetwork/PhantazmServer/wiki/Mob-Configuration-(Overview)) [contributions.](https://github.com/PhantazmNetwork/PhantazmServer/wiki/Docker-%E2%80%90-Common-Issues-on-Windows) 😒
